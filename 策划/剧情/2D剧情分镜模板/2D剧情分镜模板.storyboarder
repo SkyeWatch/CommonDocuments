@@ -1,0 +1,261 @@
+{
+  "version": "1.7.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "CBHV2",
+      "url": "board-1-CBHV2.png",
+      "newShot": true,
+      "lastEdited": 1535179172221,
+      "layers": {
+        "pencil": {
+          "url": "board-1-CBHV2-pencil.png"
+        },
+        "ink": {
+          "url": "board-1-CBHV2-ink.png"
+        },
+        "reference": {
+          "url": "board-1-CBHV2-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-CBHV2-fill.png"
+        },
+        "tone": {
+          "url": "board-1-CBHV2-tone.png"
+        },
+        "notes": {
+          "url": "board-1-CBHV2-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 8702.234419681488,
+      "dialogue": "主角：......\n配角1：......\n配角2：......",
+      "notes": "第一章，主线任务1，分镜1。\n左：主角\n右：配角1\n上：配角2",
+      "duration": "5000",
+      "action": "主角：挠头\n配角1：托腮\n配角2：指指点点"
+    },
+    {
+      "uid": "6PGGK",
+      "url": "board-2-6PGGK.png",
+      "newShot": true,
+      "lastEdited": 1535179357890,
+      "layers": {
+        "pencil": {
+          "url": "board-2-6PGGK-pencil.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 5000,
+      "duration": "4000",
+      "lineMileage": 4469.0881041644825,
+      "notes": "第一章，主线任务1，分镜2。\n进入主角回忆。\n左侧椅子上：主角\n右侧床上：配角3",
+      "dialogue": "主角：......\n配角3：......",
+      "action": "主角：流泪\n配角3：虚弱"
+    },
+    {
+      "uid": "8D5N3",
+      "url": "board-4-8D5N3.png",
+      "newShot": true,
+      "lastEdited": 1535180720937,
+      "layers": {
+        "pencil": {
+          "url": "board-4-8D5N3-pencil.png"
+        },
+        "ink": {
+          "url": "board-4-8D5N3-ink.png"
+        },
+        "reference": {
+          "url": "board-4-8D5N3-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-4-8D5N3-fill.png"
+        },
+        "tone": {
+          "url": "board-4-8D5N3-tone.png"
+        },
+        "notes": {
+          "url": "board-4-8D5N3-notes.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 9000,
+      "lineMileage": 8702.234419681488,
+      "dialogue": "主角：......",
+      "notes": "第一章，主线任务1，分镜3A。\n回到现实。\n左：主角\n右：配角1\n上：配角2",
+      "duration": "2000",
+      "action": "主角：握拳"
+    },
+    {
+      "uid": "8LGFF",
+      "url": "board-4-8LGFF.png",
+      "newShot": false,
+      "lastEdited": 1535180847349,
+      "layers": {
+        "reference": {
+          "url": "board-4-8LGFF-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-4-8LGFF-fill.png"
+        },
+        "tone": {
+          "url": "board-4-8LGFF-tone.png"
+        },
+        "pencil": {
+          "url": "board-4-8LGFF-pencil.png"
+        },
+        "ink": {
+          "url": "board-4-8LGFF-ink.png"
+        },
+        "notes": {
+          "url": "board-4-8LGFF-notes.png"
+        }
+      },
+      "shot": "3B",
+      "number": 4,
+      "time": 11000,
+      "duration": "2000",
+      "action": "主角：向右奔跑\n摄像机：跟随主角",
+      "notes": "第一章，主线任务1，分镜3B。\n中间：主角",
+      "lineMileage": 3885.6716506978696
+    },
+    {
+      "uid": "C7TH2",
+      "url": "board-5-C7TH2.png",
+      "newShot": false,
+      "lastEdited": 1535181150737,
+      "layers": {
+        "pencil": {
+          "url": "board-5-C7TH2-pencil.png"
+        },
+        "reference": {
+          "url": "board-5-C7TH2-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-5-C7TH2-fill.png"
+        },
+        "tone": {
+          "url": "board-5-C7TH2-tone.png"
+        },
+        "ink": {
+          "url": "board-5-C7TH2-ink.png"
+        },
+        "notes": {
+          "url": "board-5-C7TH2-notes.png"
+        }
+      },
+      "shot": "3C",
+      "number": 5,
+      "time": 13000,
+      "lineMileage": 7538.083296973717,
+      "duration": "4000",
+      "dialogue": "主角：......\nBOSS1：......",
+      "action": "主角：拔出武器准备战斗\nBOSS1：大笑",
+      "notes": "第一章，主线任务1，分镜3C。\n左：主角\n右：BOSS1"
+    },
+    {
+      "uid": "DVW27",
+      "url": "board-7-DVW27.png",
+      "newShot": true,
+      "lastEdited": 1535181728112,
+      "layers": {
+        "pencil": {
+          "url": "board-7-DVW27-pencil.png"
+        },
+        "reference": {
+          "url": "board-7-DVW27-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-7-DVW27-fill.png"
+        },
+        "tone": {
+          "url": "board-7-DVW27-tone.png"
+        },
+        "ink": {
+          "url": "board-7-DVW27-ink.png"
+        },
+        "notes": {
+          "url": "board-7-DVW27-notes.png"
+        }
+      },
+      "shot": "4A",
+      "number": 6,
+      "time": 17000,
+      "lineMileage": 8717.770763767314,
+      "duration": "5000",
+      "dialogue": "",
+      "action": "（即时战斗起始位置）左：主角，右：BOSS1。\n（传统RPG）我方：主角，敌方：BOSS1。",
+      "notes": "第一章，主线任务1，分镜4。\n进入战斗。"
+    },
+    {
+      "uid": "RLSBV",
+      "url": "board-8-RLSBV.png",
+      "newShot": true,
+      "lastEdited": 1535182140245,
+      "layers": {
+        "pencil": {
+          "url": "board-8-RLSBV-pencil.png"
+        },
+        "reference": {
+          "url": "board-8-RLSBV-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-8-RLSBV-fill.png"
+        },
+        "tone": {
+          "url": "board-8-RLSBV-tone.png"
+        },
+        "ink": {
+          "url": "board-8-RLSBV-ink.png"
+        },
+        "notes": {
+          "url": "board-8-RLSBV-notes.png"
+        }
+      },
+      "shot": "5A",
+      "number": 7,
+      "time": 22000,
+      "lineMileage": 13769.369968005654,
+      "duration": "4000",
+      "dialogue": "主角：......\nBOSS1：......",
+      "action": "BOSS1：虚弱动作",
+      "notes": "第一章，主线任务1，分镜5。\n左：主角\n右：BOSS1"
+    },
+    {
+      "uid": "OYEIX",
+      "url": "board-8-OYEIX.png",
+      "newShot": true,
+      "lastEdited": 1535182289003,
+      "layers": {
+        "ink": {
+          "url": "board-8-OYEIX-ink.png"
+        },
+        "notes": {
+          "url": "board-8-OYEIX-notes.png"
+        },
+        "pencil": {
+          "url": "board-8-OYEIX-pencil.png"
+        }
+      },
+      "shot": "6A",
+      "number": 8,
+      "time": 26000,
+      "duration": "3000",
+      "lineMileage": 5942.944354930477,
+      "notes": "第一章，主线任务1状态。",
+      "dialogue": "场景1：NPC1出现在X,Y\n场景2：新开场景\n场景3：NPC3出现在X,Y",
+      "action": "1：场景2对话NPC2，触发主线任务2\n2：场景1对话NPC1，触发支线任务1\n3：场景3对话NPC3，触发支线任务3"
+    }
+  ]
+}
